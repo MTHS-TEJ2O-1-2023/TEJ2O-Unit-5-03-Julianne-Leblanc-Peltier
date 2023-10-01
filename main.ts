@@ -2,7 +2,7 @@
  *
  * Created by: Julianne Leblanc-Peltier
  * Created on: Sep 2023
- * This program ...
+ * This program turns on and off an led connected to a breadboard
 */
 
 // setup
